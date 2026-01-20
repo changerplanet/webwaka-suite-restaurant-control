@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-restaurant-control",
+  "version": "0.1.0",
+  "description": "WebWaka restaurant suite - control",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
